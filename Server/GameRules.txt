@@ -1,0 +1,45 @@
+In the deck of cards are some Exploding Kittens. You play the game by putting the deck face down and 
+taking turns drawing cards until someone draws an Exploding Kitten.
+
+When that happens, that person explodes (unless they have a Defuse card). They are now dead and out 
+of the game.
+
+This process continues until there's only 1 player left, who wins the game.
+
+On your turn:
+1. Pass or play as many cards as you want.
+
+2. End your turn by drawing a card from the top of the draw pile into your hand. If you draw an
+Exploding Kitten, play a Defuse card and reinsert the Kitten back into the draw pile anywhere you'd 
+like in secret. If you don't have a Defuse card, you are out.  
+
+3. Play then continues clockwise around the screen.
+
+Field Guide:
+-Exploding Kittens (x4): Unless you have a Defuse Card, you're dead.
+
+-Defuse (x6): If you drew an Exploding Kitten, you can play this card instead of dying then reinsert 
+the Kitten back into the draw pile anywhere.
+
+-Nope (x5): Stop any action except for an Exploding Kitten or a Defuse Card. This can be played by the 
+player whose turn is next (or the player who's being acted against in the case of a Favour card or pair 
+of Cat Cards).
+
+
+-Attack (x4): End your turn without drawing a card then force the next player to take two turns.
+
+-Skip (x4): End your turn without drawing a card.
+
+-Favour (x4): Force another player to give you 1 card from their hand. They choose which card to give 
+you.
+
+-Shuffle (x4): Shuffle the draw pile without viewing the cards.
+
+-See the Future (x5): Privately view the top 3 cards from the draw pile and put them back in the same 
+order.
+
+-Cat Cards (x4 of each type): Powerless on their own, but a matching pair of them can be played to steal 
+a random card from the other player.
+
+
+
